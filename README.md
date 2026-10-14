@@ -1,0 +1,1 @@
+# lovable-for-apps-script
